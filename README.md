@@ -13,3 +13,5 @@ This project serves as a foundational template for building modern React applica
 -Linting and code quality enforcement using ESLint with TypeScript support.
 
 The template provides a ready-to-use development environment where students or developers can build features, explore React hooks, manage state, and integrate APIs.
+# 🔗 live demo
+https://assignment-gamma-rosy-99.vercel.app
